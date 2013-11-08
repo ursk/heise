@@ -1,0 +1,2 @@
+Amir's implementation of quasi newton, replaces libLBFGS
+tokyo: amirs modification to someones code to get BLAS working. Need to have tokyo.so around
